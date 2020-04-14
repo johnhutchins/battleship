@@ -2,7 +2,7 @@
     margin: auto auto;
     width:90%;
     display: grid;
-    grid-template-columns: repeat(10, 250px)
+    grid-template-columns: repeat(10, 100px)
   }
 
   .grid-item {
